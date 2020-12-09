@@ -11,7 +11,7 @@ Glaser, Thomas (2020). “‘(…) aus mehr oder weniger zerklüfteten Bruchstü
 
 **main content** [in progress]
 
-The data are presented here as **one [Excel file](Kurtag_Kafka-Fragmente_total_data.xlsx)** referring to the whole cycle and **40 further Excel files** (Kurtag_Kafka-Fragmente_**xx**_data.xlsx) referring to the 40 individual movements of Kurtág's cycle. The most important data for the whole cycle and for each movement are also provided as **tsv**-files. The duration data refer to sections and segments indicated in an annotated score of this work that has been published in open access at https://phaidra.kug.ac.at/o:107318.
+The data are presented here as **one [Excel file](Kurtag_Kafka-Fragmente_total_data.xlsx)** that includes data referring to the whole cycle and **40 further Excel files** (Kurtag_Kafka-Fragmente_**xx**_data.xlsx) that include data referring to the 40 individual movements of Kurtág’s cycle. The most important data for the whole cycle and for each movement are also provided as **tsv**-files separately. The duration data refer to sections and segments indicated in an annotated score of this work that has been published in open access at https://phaidra.kug.ac.at/o:107318.
 
 Kurtag_Kafka-Fragmente_total_data:
 This Excel file contains
