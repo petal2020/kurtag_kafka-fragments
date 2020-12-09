@@ -29,7 +29,7 @@ The data are presented here as **one [Excel file](Kurtag_Kafka-Fragmente_total_d
 
 --'fragments_1-40_data' subfolder: This folder contains 40 Excel files, one for each movement. Each file contains **10 basic worksheets** with **additional 3 worksheets** contained for movements 1, 8, 9, 13 und 17 that document tempo values based on the basic beat unit (beats per minute bpm). The worksheet 'score' calculates the percentages of segments and sections based on note values in the score. The main worksheet 'KF_xx_dur+rat' presents detailed data on the duration, percentages, deviations, and other statistical values for sections and segments of the respective movement. The data are summarized in 8 tables at the left bottom of the sheet where durations and percentages of both sections and segments are represented for both the 14- and the 8-recording corpora.
 
---'fragments_1-40_basic-data' subfolder: This folder contains 40 tsv-files that contain the 8 tables of basic data from the worksheet 'KF_xx_dur+rat' in the respective Excel files.
+--'fragments_1-40_basic-data' subfolder: This folder contains 40 tsv-files that present the 8 tables of basic data from the worksheet 'KF_xx_dur+rat' in the respective Excel files.
 
 **glossary**
 
