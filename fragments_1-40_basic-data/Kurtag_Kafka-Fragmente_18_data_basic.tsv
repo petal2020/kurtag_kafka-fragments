@@ -1,0 +1,66 @@
+dur sec 14	1	2	3	total		dur seg 14	1a	1b	2a	2b	3	total	
+Csengery+Keller 1987	00:43	00:39	00:45	02:07		Csengery+Keller 1987	00:31	00:11	00:19	00:20	00:45	02:07	
+Csengery+Keller 1990	00:42	00:38	00:44	02:04		Csengery+Keller 1990	00:31	00:11	00:18	00:20	00:44	02:04	
+Komsi+Oramo 1994	00:51	00:44	00:58	02:32		Komsi+Oramo 1994	00:41	00:10	00:18	00:25	00:58	02:32	
+Komsi+Oramo 1995	00:52	00:47	01:00	02:39		Komsi+Oramo 1995	00:42	00:10	00:20	00:27	01:00	02:39	
+Whittlesey+Sallaberger 1997	00:42	00:41	00:48	02:11		Whittlesey+Sallaberger 1997	00:33	00:09	00:17	00:24	00:48	02:11	
+Pammer+Kopatchinskaja 2004	00:41	00:33	00:37	01:51		Pammer+Kopatchinskaja 2004	00:31	00:10	00:14	00:19	00:37	01:51	
+Arnold+Pogossian 2004	00:44	00:40	00:54	02:18		Arnold+Pogossian 2004	00:32	00:12	00:20	00:21	00:54	02:18	
+Banse+Keller 2005	00:48	00:37	00:49	02:14		Banse+Keller 2005	00:35	00:13	00:17	00:20	00:49	02:14	
+Arnold+Pogossian 2006	00:44	00:38	00:52	02:14		Arnold+Pogossian 2006	00:33	00:11	00:18	00:21	00:52	02:14	
+Melzer+Stark 2012	00:52	00:36	00:50	02:19		Melzer+Stark 2012	00:39	00:13	00:16	00:21	00:50	02:19	
+Melzer+Stark 2013	00:53	00:36	00:51	02:20		Melzer+Stark 2013	00:40	00:13	00:15	00:21	00:51	02:20	
+Kammer+Widmann 2017	00:38	00:33	00:44	01:55		Kammer+Widmann 2017	00:29	00:09	00:14	00:19	00:44	01:55	
+Melzer+Stark 2017	00:50	00:38	00:50	02:18		Melzer+Stark 2017	00:38	00:12	00:16	00:21	00:50	02:18	
+Melzer+Stark 2019	00:51	00:40	00:50	02:21		Melzer+Stark 2019	00:39	00:12	00:17	00:22	00:50	02:21	
+mean 14	00:46	00:38	00:49	02:14		mean 14	00:35	00:11	00:17	00:21	00:49	02:14	
+min 14	00:38	00:33	00:37	01:51	PK 2004	min 14	00:29	00:09	00:14	00:19	00:37	01:51	PK 2004
+max 14	00:53	00:47	01:00	02:39	KO 1995	max 14	00:42	00:13	00:20	00:27	01:00	02:39	KO 1995
+rel stdv (%) 14	11,03	10,03	11,78	9,64		rel stdv (%) 14	12,58	13,12	11,68	10,90	11,78	9,64	
+dur sec 8	1	2	3	total		dur seg 8	1a	1b	2a	2b	3	total	
+Csengery+Keller 1990	00:42	00:38	00:44	02:04		Csengery+Keller 1990	00:31	00:11	00:18	00:20	00:44	02:04	
+Komsi+Oramo 1995	00:52	00:47	01:00	02:39		Komsi+Oramo 1995	00:42	00:10	00:20	00:27	01:00	02:39	
+Whittlesey+Sallaberger 1997	00:42	00:41	00:48	02:11		Whittlesey+Sallaberger 1997	00:33	00:09	00:17	00:24	00:48	02:11	
+Pammer+Kopatchinskaja 2004	00:41	00:33	00:37	01:51		Pammer+Kopatchinskaja 2004	00:31	00:10	00:14	00:19	00:37	01:51	
+Arnold+Pogossian 2004	00:44	00:40	00:54	02:18		Arnold+Pogossian 2004	00:32	00:12	00:20	00:21	00:54	02:18	
+Banse+Keller 2005	00:48	00:37	00:49	02:14		Banse+Keller 2005	00:35	00:13	00:17	00:20	00:49	02:14	
+Melzer+Stark 2012	00:52	00:36	00:50	02:19		Melzer+Stark 2012	00:39	00:13	00:16	00:21	00:50	02:19	
+Kammer+Widmann 2017	00:38	00:33	00:44	01:55		Kammer+Widmann 2017	00:29	00:09	00:14	00:19	00:44	01:55	
+mean 8	00:45	00:38	00:48	02:11		mean 8	00:34	00:11	00:17	00:21	00:48	02:11	
+min 8	00:38	00:33	00:37	01:51	PK 2004	min 8	00:29	00:09	00:14	00:19	00:37	01:51	PK 2004
+max 8	00:52	00:47	01:00	02:39	KO 1995	max 8	00:42	00:13	00:20	00:27	01:00	02:39	KO 1995
+rel stdv (%) 8 	11,98	12,38	14,28	11,68		rel stdv (%) 8	13,32	15,92	13,92	13,02	14,28	11,68	
+perc sec 14	1	2	3			perc seg 14	1a	1b	2a	2b	3		
+score	37,50	28,24	34,26										
+Csengery+Keller 1987	33,58	30,72	35,70			Csengery+Keller 1987	24,67	8,91	14,95	15,78	35,70		
+Csengery+Keller 1990	33,68	30,34	35,99			Csengery+Keller 1990	24,96	8,72	14,22	16,12	35,99		
+Komsi+Oramo 1994	33,39	28,59	38,02			Komsi+Oramo 1994	26,92	6,48	12,11	16,48	38,02		
+Komsi+Oramo 1995	32,89	29,44	37,67			Komsi+Oramo 1995	26,58	6,32	12,63	16,81	37,67		
+Whittlesey+Sallaberger 1997	32,08	31,58	36,35			Whittlesey+Sallaberger 1997	25,12	6,96	13,25	18,33	36,35		
+Pammer+Kopatchinskaja 2004	36,88	29,71	33,40			Pammer+Kopatchinskaja 2004	27,91	8,97	12,87	16,84	33,40		
+Arnold+Pogossian 2004	31,74	29,15	39,10			Arnold+Pogossian 2004	22,97	8,77	14,24	14,91	39,10		
+Banse+Keller 2005	35,61	27,68	36,71			Banse+Keller 2005	25,87	9,74	12,42	15,27	36,71		
+Arnold+Pogossian 2006	32,61	28,71	38,68			Arnold+Pogossian 2006	24,53	8,08	13,20	15,51	38,68		
+Melzer+Stark 2012	37,69	26,10	36,21			Melzer+Stark 2012	28,13	9,56	11,18	14,92	36,21		
+Melzer+Stark 2013	37,90	25,48	36,62			Melzer+Stark 2013	28,83	9,07	10,43	15,06	36,62		
+Kammer+Widmann 2017	33,19	28,32	38,50			Kammer+Widmann 2017	25,56	7,62	11,83	16,49	38,50		
+Melzer+Stark 2017	36,40	27,28	36,32			Melzer+Stark 2017	27,63	8,77	11,98	15,30	36,32		
+Melzer+Stark 2019	36,30	28,25	35,44			Melzer+Stark 2019	27,54	8,76	12,33	15,92	35,44		
+mean 14	34,57	28,67	36,76			mean 14	26,23	8,34	12,69	15,98	36,76		
+min 14	31,74	25,48	33,40			min 14	22,97	6,32	10,43	14,91	33,40		
+max 14	37,90	31,58	39,10			max 14	28,83	9,74	14,95	18,33	39,10		
+abs stdv 14	2,14	1,69	1,52			abs stdv 14	1,68	1,09	1,23	0,95	1,52		
+perc sec 8	1	2	3			perc seg 8	1a	1b	2a	2b	3		
+score	37,50	28,24	34,26										
+Csengery+Keller 1990	33,68	30,34	35,99			Csengery+Keller 1990	24,96	8,72	14,22	16,12	35,99		
+Komsi+Oramo 1995	32,89	29,44	37,67			Komsi+Oramo 1995	26,58	6,32	12,63	16,81	37,67		
+Whittlesey+Sallaberger 1997	32,08	31,58	36,35			Whittlesey+Sallaberger 1997	25,12	6,96	13,25	18,33	36,35		
+Pammer+Kopatchinskaja 2004	36,88	29,71	33,40			Pammer+Kopatchinskaja 2004	27,91	8,97	12,87	16,84	33,40		
+Arnold+Pogossian 2004	31,74	29,15	39,10			Arnold+Pogossian 2004	22,97	8,77	14,24	14,91	39,10		
+Banse+Keller 2005	35,61	27,68	36,71			Banse+Keller 2005	25,87	9,74	12,42	15,27	36,71		
+Melzer+Stark 2012	37,69	26,10	36,21			Melzer+Stark 2012	28,13	9,56	11,18	14,92	36,21		
+Kammer+Widmann 2017	33,19	28,32	38,50			Kammer+Widmann 2017	25,56	7,62	11,83	16,49	38,50		
+mean 8	34,22	29,04	36,74			mean 8	25,89	8,33	12,83	16,21	36,74		
+min 8	31,74	26,10	33,40			min 8	22,97	6,32	11,18	14,91	33,40		
+max 8	37,69	31,58	39,10			max 8	28,13	9,74	14,24	18,33	39,10		
+abs stdv 8 	2,23	1,68	1,76			abs stdv 8	1,67	1,24	1,07	1,17	1,76		
